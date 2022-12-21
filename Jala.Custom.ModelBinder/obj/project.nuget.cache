@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bqr2ZbccNQ8/Z0im/pYNjU7YkWzzIatbM+eDTRnGlP2qR++AJyTgaXD/XqP20l2qENm3YbV84/9UHe5R45o5rA==",
+  "success": true,
+  "projectFilePath": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala.Custom.ModelBinder/Jala.Custom.ModelBinder/Jala.Custom.ModelBinder.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavogodoy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/gustavogodoy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

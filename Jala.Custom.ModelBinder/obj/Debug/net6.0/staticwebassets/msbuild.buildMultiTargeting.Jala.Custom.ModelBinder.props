@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Jala.Custom.ModelBinder.props" />
+</Project>
